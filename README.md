@@ -1,5 +1,5 @@
-# Kaggle Sample Project
-Repository to be used as a skeleton for Kaggle Competition repositories.
+# Kaggle Project Template
+Repository to be used as a skeleton or template for Kaggle Competition repositories.
 
 ## Contents
 - [Project Setup](#Project-Setup)
