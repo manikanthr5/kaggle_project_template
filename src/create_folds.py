@@ -36,7 +36,7 @@ class CreateFolds:
     def __init__(self):
         pass
 
-    def createFolds(self):
+    def create_folds(self):
         pass
 
 def main():
